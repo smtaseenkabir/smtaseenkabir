@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm S.M. Taseen Kabir 👋
 
-<!--
-**smtaseenkabir/smtaseenkabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Status:** HSC Candidate (2027) | Aspiring Computer Science / Software Engineering Student
+- 🇩🇪 **Target:** Pursuing Bachelor's in CS/SE in Germany
+- 💻 **Tech Stack:** Python, Linux, Web Development & Cybersecurity Fundamentals
+- 📜 **Certifications:** EC-Council, Great Learning Academy, CS50 (In Progress)
+- 🌐 **Portfolio:** [taseenkabir.vercel.app](https://taseenkabir.vercel.app/)
+- 📬 **Contact:** [github.com/smtaseenkabir](https://github.com/smtaseenkabir)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Quick Overview
+I am a passionate tech enthusiast currently preparing for my higher studies in Germany. I focus on core programming skills, cybersecurity, and building practical software projects.
+
+---
+
+### 📊 GitHub Stats
+![Taseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtaseenkabir&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtaseenkabir&layout=compact&theme=radial)
